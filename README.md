@@ -3,9 +3,9 @@
 
 <Cards>
 
-  <Card title="Python">Linguagem de programação utilizada no código</Card>
+  <Card title="Python">Linguagem de programação utilizada no código: Python!</Card>
 
-  <Card title="Fórmula">(potencia \* horasDia \* 30) / 1000 foi a fórmula usada no cálculo</Card>
+  <Card title="Fórmula">(potencia \* horasDia \* 30) / 1000 foi a fórmula usada no cálculo.</Card>
 
-  <Card title="Comandos">Input, int, variáveis e outros comandos simples</Card>
+  <Card title="Comandos">Input, int, variáveis e outros comandos simples.</Card>
 </Cards>
